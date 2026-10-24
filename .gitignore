@@ -52,3 +52,9 @@ data/
 outputs/
 results/
 *.log
+*.part
+*.ts
+
+*.pt 
+*.ckpt
+*.pth
