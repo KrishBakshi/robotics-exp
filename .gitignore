@@ -48,7 +48,7 @@ Thumbs.db
 *.pcd
 *.las
 *.laz
-data/
+
 outputs/
 results/
 *.log
